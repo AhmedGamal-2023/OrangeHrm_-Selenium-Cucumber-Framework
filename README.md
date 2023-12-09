@@ -3,6 +3,7 @@ Test Automation Framework for (Orange Hrm) designed By Selenium, Cucumber
 
  • Designed by Selenium & Cucumber
  • coding language (java)
+ • Jerkin Languague 
  • Designed with POM pattern
  • Custom methods 
  • Supported by Fluent Wait & JavaScript Executor
