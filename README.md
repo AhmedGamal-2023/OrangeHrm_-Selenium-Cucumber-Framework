@@ -1,6 +1,8 @@
 # OrangeHrm_-Selenium-Cucumber-Framework
-Test Automation Framework for (Orange Hrm) designed By Selenium, Cucumber 
 
+🗺 Design Test Automation Framework for (Orange Hrm) designed By Selenium, Cucumber 
+
+📌 Approach: 
  • Designed by Selenium & Cucumber
  • coding language (java)
  • Jerkin Languague 
